@@ -1,0 +1,41 @@
+{
+  "name": "numzy",
+  "version": "1.0.0",
+  "description": "Numzy game backend",
+  "engines": {
+    "node": "12.17.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "compression": "^1.7.4",
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "express-mongo-sanitize": "^2.0.0",
+    "firebase-admin": "^8.12.1",
+    "helmet": "^3.22.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.15",
+    "xss-clean": "^0.1.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heroku/node-js-getting-started.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heroku/node-js-getting-started/issues"
+  },
+  "homepage": "https://github.com/heroku/node-js-getting-started#readme",
+  "author": ""
+}

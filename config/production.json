@@ -1,0 +1,4 @@
+{
+  "dbpath": "mongodb+srv://production:banzan_numzy@cluster0-ko9jn.mongodb.net/numzy_backend",
+  "jwtPrivateKey": "numzy_game_april_2020"
+}

@@ -1,0 +1,6 @@
+{
+  "dbpath": "mongodb+srv://vrgokuldas:sonyvaio15213snb@gokuldasdb-zgcty.mongodb.net/numzy_backend",
+  "_comment2": "mongodb://localhost/numzy_backend",
+  "_comment1": "mongodb+srv://production:banzan_numzy@cluster0-ko9jn.mongodb.net/numzy_backend",
+  "jwtPrivateKey": "numzy_game_april_2020"
+}
